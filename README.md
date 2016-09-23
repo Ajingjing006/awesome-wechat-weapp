@@ -74,12 +74,3 @@
 - [为什么要发布微信应用号](http://t.cn/RcYXsoP)
 - [微信小程序，仅仅是 Web App 么？](http://t.cn/RcYowhy)
 
-## Author
-
-> 发哥就是我，全端工程师，酷爱新技术，关注发哥微博 http://weibo.com/jinfali
-
----
-
-欢迎投稿：[点击这里](https://github.com/Aufree/awesome-wechat-weapp/edit/master/README.md)
-
----
