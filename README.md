@@ -1,4 +1,4 @@
-![](https://cloud.githubusercontent.com/assets/324764/18769116/e6c33c30-815c-11e6-8d34-5a50b7f4af74.png)
+![](http://upload-images.jianshu.io/upload_images/280040-286d54a6ff574f19.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 微信小应用资源汇总整理
 
